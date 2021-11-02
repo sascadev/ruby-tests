@@ -1,8 +1,5 @@
 class TestClass
     def someMethod
-        1
-    end
-    def someOtherMethod
-        2
+        1337
     end
 end
